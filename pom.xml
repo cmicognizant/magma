@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.obiba.magma</groupId>
   <artifactId>magma</artifactId>
-  <version>1.11.6-sesi</version>
+  <version>1.11.7-sesi-SNAPSHOT</version>
   <packaging>pom</packaging>
 
     <modules>
@@ -460,7 +460,7 @@
         <connection>scm:git:git://github.com/cmicognizant/magma.git</connection>
         <developerConnection>scm:git:https://github.com/cmicognizant/magma.git</developerConnection>
         <url>https://github.com/cmicognizant/magma</url>
-        <tag>magma-1.11.6-sesi</tag>
+        <tag>master</tag>
     </scm>
 
     <properties>
